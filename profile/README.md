@@ -2,7 +2,7 @@
 
 I create apps under the name **Builtbybel**.  
 
-Feel free to reach out at **github@builtbybel.com** — but please, **no support requests!** Use the specific project repositories for that.  
+Feel free to reach out at **Belim@builtbybel.com** — but please, **no support requests!** Use the specific project repositories for that.  
 
 If you love what I do and want to keep the projects alive (or simply buy me a coffee ☕), donations are always welcome:  
 
