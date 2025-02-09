@@ -12,6 +12,8 @@ Thanks for your support! ❤️
 
 ## 🚀 Trending Apps  
 
-- **Flyby11**: Want to upgrade your Windows 10 machine to Windows 11? Give Flyby11 a spin!  
-- **Bloatboxer**: Time to declutter your Windows system? Bloatboxer is your go-to tool to clean up Windows 10 or the shiny new Windows 11.  
+| ⚙️ **[Flyby11](https://github.com/builtbybel/Flyby11)** | Upgrade your Windows 10 machine to Windows 11 smoothly with Flyby11! |  
+|:-------------------------------------------------------:|:--------------------------------------------------------------------:|  
 
+| 🧹 **[Bloatboxer](https://github.com/builtbybel/Bloatboxer)** | Declutter your Windows 10 or shiny new Windows 11 effortlessly! |  
+|:---------------------------------------------------------:|:-------------------------------------------------------------------:|  
