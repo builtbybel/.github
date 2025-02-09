@@ -6,6 +6,6 @@ Feel free to reach out at **github@builtbybel.com** — but please, **no support
 
 If you love what I do and want to keep the projects alive (or simply buy me a coffee ☕), donations are always welcome:  
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal&style=flat-square)](https://www.paypal.com/donate?hosted_button_id=your_button_id_here)  
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal&style=flat-square)](https://www.paypal.com/donate?hosted_button_id=MY7HX4QLYR4KG)  
 
 Thanks for your support! ❤️
