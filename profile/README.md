@@ -15,5 +15,5 @@ Thanks for your support! ❤️
 | ⚙️ **[Flyby11](https://github.com/builtbybel/Flyby11)** | Upgrade your Windows 10 machine to Windows 11 smoothly with Flyby11! |  
 |:-------------------------------------------------------:|:--------------------------------------------------------------------:|  
 
-| 🧹 **[Go11App](https://github.com/builtbybel/Go11)** | Customize Windows 11 settings after upgrading.  |  
+| 🧹 **[ThisIsNot11](https://github.com/builtbybel/ThisIsNot11)** | Customize Windows 11 settings after upgrading.  |  
 |:---------------------------------------------------------:|:-------------------------------------------------------------------:|  
