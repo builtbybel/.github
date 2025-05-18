@@ -18,5 +18,5 @@ Thanks for your support! ❤️
 | ⚙️ **[Flyby11](https://github.com/builtbybel/Flyby11)** | Upgrade your Windows 10 machine to Windows 11 smoothly with Flyby11! |  
 |:-------------------------------------------------------:|:--------------------------------------------------------------------:|  
 
-| 🧹 **[Crapfixer](https://github.com/builtbybel/Crapfixer)** | The tool that says what everyone’s thinking  |  
+| 🧹 **[CrapFixer](https://github.com/builtbybel/CrapFixer)** | The tool that says what everyone’s thinking  |  
 |:---------------------------------------------------------:|:-------------------------------------------------------------------:|  
