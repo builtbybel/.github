@@ -15,7 +15,7 @@ Thanks for your support! ❤️
 
 ## 🚀 Trending Apps  
 
-| ⚙️ **[FluentTweaker](https://github.com/builtbybel/FluentTweaker)** | Open-source Windows tweaker — registry tweaks, debloat & app management. |  
+| ⚙️ **[CrapFixer](https://github.com/builtbybel/CrapFixer)** | Open-source Windows tweaker — registry tweaks, debloat & app management. |  
 |:-------------------------------------------------------:|:--------------------------------------------------------------------:|  
 
 | 🧹 **[FluentCleaner](https://github.com/builtbybel/FluentCleaner)** | Open-source CCleaner alternative for Windows, built with WinUI 3. |  
