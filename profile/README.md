@@ -1,21 +1,40 @@
+
 # Hey, I'm Belim! 👋
 
-I build small Windows tools under the name **Builtbybel**, usually because Windows added something annoying or existing tools made a simple job far too complicated.
+I build small Windows tools under the name **Builtbybel**. Mostly because Windows keeps adding things nobody asked for, or because existing tools make simple tasks far too complicated.
 
 *Good apps are as little as possible.*
 
-## Projects
+## Featured projects
+
+### 🐝 [Bloatynosy Origin](https://github.com/builtbybel/Bloatynosy) ![UPDATED](https://img.shields.io/badge/UPDATED-6C63FF?style=flat-square) ![HOT](https://img.shields.io/badge/HOT-FF5E5B?style=flat-square)
+
+**The Windows 11 debloater, rebuilt from scratch.**
+
+100+ tweaks to remove unnecessary Windows features, reduce clutter and make Windows feel like yours again. Small, straightforward and built around giving you control.
+
+[**Download Bloatynosy →**](https://github.com/builtbybel/Bloatynosy/releases)
+
+### 🧹 [FluentCleaner](https://github.com/builtbybel/FluentCleaner)
+
+**A cleaner that shows its work.**
+
+A lightweight, Winapp2-powered CCleaner alternative with a modern WinUI 3 interface, a Classic edition and no unnecessary extras.
+
+[**Download FluentCleaner →**](https://github.com/builtbybel/FluentCleaner/releases)
+
+## More Windows tools
 
 | Project | What it does | Download |
 |---|---|---|
-| 🎯 **[NixThis](https://github.com/builtbybel/NixThis)** ![NEW](https://img.shields.io/badge/NEW-6C63FF?style=flat-square) | What uBlock does for websites, but for Windows itself. Point at something annoying and find the setting behind it. | [Latest release](https://github.com/builtbybel/NixThis/releases) |
-| 🐝 **[Flyoobe 3](https://github.com/builtbybel/Flyoobe)** | A focused Control Panel for setting up Windows, choosing apps, reusing recipes and handling the Windows 11 upgrade path. | [Latest release](https://github.com/builtbybel/Flyoobe/releases) |
-| 🧹 **[FluentCleaner](https://github.com/builtbybel/FluentCleaner)** | A transparent, Winapp2-powered CCleaner alternative, available in Modern and Classic editions. | [Latest release](https://github.com/builtbybel/FluentCleaner/releases) |
-| ⚙️ **[CrapFixer](https://github.com/builtbybel/CrapFixer)** | A signature-driven Windows tweaker with a simple scan-first workflow. | [Latest release](https://github.com/builtbybel/CrapFixer/releases) |
+| 🪟 **[Flyoobe 3](https://github.com/builtbybel/Flyoobe)** ![UPDATED](https://img.shields.io/badge/UPDATED-6C63FF?style=flat-square) | A focused Control Panel for setting up Windows, choosing apps, reusing recipes and handling the Windows 11 upgrade path. | [Download](https://github.com/builtbybel/Flyoobe/releases) |
+| ⚙️ **[CrapFixer](https://github.com/builtbybel/CrapFixer)** | A signature-driven Windows tweaker with a simple scan-first workflow. | [Download](https://github.com/builtbybel/CrapFixer/releases) |
 
-For support, bug reports or feature requests, please use the matching project repository. For everything else, you can [email me](mailto:Belim@builtbybel.com).
+---
 
-If one of my apps saved you time or made Windows a little less annoying, you can support the projects here:
+For bugs, support or feature requests, please use the relevant project's repository. For everything else, [drop me an email](mailto:Belim@builtbybel.com).
+
+If one of my apps made Windows a little less annoying, you can support my work here:
 
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-0070BA?logo=paypal&logoColor=white&style=flat-square)](https://www.paypal.com/donate?hosted_button_id=MY7HX4QLYR4KG)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=flat-square)](https://ko-fi.com/builtbybel)
